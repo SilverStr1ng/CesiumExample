@@ -7,7 +7,7 @@ interface ViteTypeOptions {
 }
 
 interface ImportMetaEnv {
-  readonly VITE_CESIUM_TOKEN: string
+  readonly VITE_CESIUM_ION_ACCESS_TOKEN: string
   // 更多环境变量...
 }
 
